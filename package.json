@@ -1,7 +1,7 @@
 {
   "name": "idris-electron-react-scaffold",
   "productName": "Idris-Electron-React Scaffold",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Idris-Electron-React Scaffold",
   "main": "main.js",
   "scripts": {

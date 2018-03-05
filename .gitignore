@@ -1,0 +1,4 @@
+node_modules
+*.ibc
+*.js
+*_doc

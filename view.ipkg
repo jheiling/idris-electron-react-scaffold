@@ -1,0 +1,9 @@
+package view
+
+executable = view.js
+opts = "--codegen node"
+sourcedir = src
+main = view
+pkgs = contrib
+     , extras
+     , react

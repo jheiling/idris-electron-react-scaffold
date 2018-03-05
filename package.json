@@ -1,0 +1,23 @@
+{
+  "name": "idris-electron-react-scaffold",
+  "productName": "Idris-Electron-React Scaffold",
+  "version": "0.0.1",
+  "description": "Idris-Electron-React Scaffold",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Idris",
+    "Electron",
+    "React"
+  ],
+  "author": "Jürgen Heiling",
+  "license": "Unlicense",
+  "dependencies": {
+    "electron": "~1.8.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "create-react-class": "^15.6.3"
+  }
+}

@@ -1,7 +1,4 @@
 #!/bin/bash
 
-echo building main...
-idris --build main.ipkg
-
-echo building example view...
+idris --build main.ipkg &&
 idris --build view.ipkg

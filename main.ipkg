@@ -6,4 +6,5 @@ sourcedir = src
 main = main
 pkgs = contrib
      , extras
+     , js
      , electron

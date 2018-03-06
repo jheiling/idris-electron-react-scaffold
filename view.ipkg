@@ -6,4 +6,5 @@ sourcedir = src
 main = view
 pkgs = contrib
      , extras
+     , js
      , react
